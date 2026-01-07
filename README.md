@@ -1,2 +1,3 @@
-# fireface-control
-  Fireface 802 &amp; UCX (firewire) Mixer
+Fireface Control is no longer on Github.
+
+[https://framagit.org/jean-emmanuel/fireface-control]([url](https://framagit.org/jean-emmanuel/fireface-control))
